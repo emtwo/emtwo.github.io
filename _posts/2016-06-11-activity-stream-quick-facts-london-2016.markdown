@@ -99,7 +99,7 @@ categories: graphs
 
 ## When Are People Spending More Time on the Page?
 
-<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~emtwo/55.embed"></iframe>
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~emtwo/57.embed"></iframe>
 
 <br>
 <br>
@@ -111,6 +111,19 @@ categories: graphs
 <br>
 <br>
 
+## BUT WAIT! Those active weekend users tho!
+
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~emtwo/59.embed"></iframe>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## What Are People **Really** Doing on Weekends?
 
