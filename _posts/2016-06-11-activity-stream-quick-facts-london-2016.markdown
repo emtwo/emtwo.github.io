@@ -29,7 +29,7 @@ categories: graphs
 
 ## Monthly, Weekly, Daily Active Users
 
-<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~emtwo/28.embed"></iframe>
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~emtwo/51.embed"></iframe>
 
 <br>
 <br>
@@ -71,7 +71,7 @@ categories: graphs
 
 ## When Are All These Events Happening?
 
-<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~emtwo/41.embed"></iframe>
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~emtwo/53.embed"></iframe>
 
 <br>
 <br>
@@ -99,7 +99,7 @@ categories: graphs
 
 ## When Are People Spending More Time on the Page?
 
-<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~emtwo/39.embed"></iframe>
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~emtwo/55.embed"></iframe>
 
 <br>
 <br>
@@ -166,9 +166,7 @@ categories: graphs
 
 ## Sooooo... are people coming back??
 
-<img src="{{ post.url }}/assets/daily_retention.png" alt="Daily Retention" height="400" width="800">
 <img src="{{ post.url }}/assets/weekly_retention.png" alt="Weekly Retention" height="440" width="800">
-
 
 <br>
 <br>
