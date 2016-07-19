@@ -150,7 +150,16 @@ pre {
     }
 }
 
+table{
+    border-collapse: collapse;
+    border:1px solid #000000;
+    padding: 2px;
+}
 
+th, td {
+    border:1px solid #000000;
+    padding: 5px;
+}
 
 /**
  * Wrapper
