@@ -18,7 +18,7 @@ First, we'll be computing 5 of the metrics described there for individual users:
 
 Then we'll define an engaged user as one that returns and interacts with Activty Stream at least once per week for at least the past 3 consecutive weeks.
 
-We'll then try to build a model that can predict an engaged user given their behaviour (the 45metrics).
+We'll then try to build a model that can predict an engaged user given their behaviour (the 5 metrics).
 
 Finally, we'll talk about what can be done with these results and what further exploration is left for the future.
 
